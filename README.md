@@ -4,7 +4,7 @@
 
 ---
 
-![](demo_resources\pic1.png)
+![pic0](demo_resources\pic1.png)
 
 ## 🚀 主要機能 (Features)
 
@@ -12,7 +12,7 @@
 * **自動収集:** キーワード（台風名など）や対象期間を指定し、YouTubeやニュースサイト（VnExpress、Dantri、Thanhnien等）から投稿およびコメントデータを自動的に収集します。
 * **データ前処理:** 収集したテキストデータのクレンジングおよび標準化を自動で行います。
 
-![](demo_resources\data_collect.png)
+![pic1](demo_resources\data_collect.png)
 
 ---
 
@@ -20,7 +20,7 @@
 * **感情追跡:** 時間軸（時間単位、日単位、週単位、月単位）ごとに、ポジティブ・ネガティブ・ニュートラルの感情推移をグラフ化します。
 * **心理変化の把握:** 災害発生時の不安から復旧フェーズへの変化など、被災者の心理推移を追跡できます。
 
-![](demo_resources\sentiment_analize.png)
+![pic2](demo_resources\sentiment_analize.png)
 
 ---
 
@@ -34,7 +34,7 @@
   * その他 (Other)
 * **被害状況の可視化:** 最も報告数が多い被害の種類や深刻度を正確に把握できます。
 
-![Tên_ảnh](demo_resources\damage_analize.png)
+![pic3](demo_resources\damage_analize.png)
 
 ---
 
